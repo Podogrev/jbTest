@@ -71,5 +71,5 @@ After performing the above tests, the following bugs were observed:
 
 ## III. Running the Automated Tests
 
-2. **Navigate to the test file:** [LazyColumnUITest.kt](kotlin/org/example/project/LazyColumnUITest.kt).
+2. **Navigate to the test file:** [LazyColumnUITest.kt](composeApp/src/androidTest/kotlin/org/example/project).
 3. **Run the tests:**
